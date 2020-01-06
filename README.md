@@ -1,3 +1,18 @@
+## Coursera "Front-End Web Development with React" Course Project
+
+Some of the areas covered in this project include:
+
+* Presentational/Container and Functional Components
+* Lifecycle Methods
+* React Router and Single Page Applications
+* Controlled/Uncontrolled forms
+* Redux and the Flux Architecture
+* REST APIs with Fetch
+* Webpack
+
+Course Certificate can be found [here.](https://www.coursera.org/account/accomplishments/verify/NZ7695BLTADB)
+
+_______________________________________________________________________________________________________________
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
