@@ -21,7 +21,7 @@ function RenderLeader({leaders, isLoading, errMess}){
             return(
                 <Fade in>
                     <Media key={leader.id} tag="li" className="my-4">
-                        <Media object className="mr-3" src={baseUrl + leader.image} alt={leader.image} />
+                        <Media object className="mr-3" width="100vw" src={baseUrl + leader.image} alt={leader.image} />
                         <Media body className="ml-4">
                             <Media heading className="mt-0 mb-1">{leader.name}</Media>
                             <p>{leader.designation}</p>
