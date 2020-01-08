@@ -1,6 +1,6 @@
 ## Coursera "Front-End Web Development with React" Course Project
 
-Live site found here [https://www.coursera.org/account/accomplishments/verify/NZ7695BLTADB](https://confusion-restauraunt-react.herokuapp.com/)
+Live site found here [https://confusion-restauraunt-react.herokuapp.com/](https://confusion-restauraunt-react.herokuapp.com/)
 
 Some of the areas covered in this project include:
 
